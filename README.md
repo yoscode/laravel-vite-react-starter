@@ -5,6 +5,7 @@
 ```sh
 composer install
 npm install
+add .env file
 ```
 
 ## Running on Local :
